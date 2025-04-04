@@ -82,6 +82,7 @@ class _HomePageState extends State<HomePage> {
               icon: Icon(
                 Icons.person,
                 color:
+                // color addedd
                     currentPage == 4
                         ? Color.fromRGBO(203, 73, 101, 1)
                         : Color.fromRGBO(40, 40, 40, 1),
